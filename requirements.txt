@@ -1,0 +1,10 @@
+Flask
+gunicorn
+pandas
+scikit-learn
+joblib
+flask-cors
+Pillow
+pytesseract
+python-dotenv
+groq
